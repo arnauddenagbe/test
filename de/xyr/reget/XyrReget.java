@@ -14,6 +14,7 @@ import javax.swing.*;
  */
 public class XyrReget extends JFrame
 {
+	// another change
     public final static int DEFAULT_MAX_THREADS = 5;
     private XyrRegetMenuBar menuBar;
     private XyrRegetDownloadManager downloadManager;

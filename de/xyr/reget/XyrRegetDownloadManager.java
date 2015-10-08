@@ -12,6 +12,7 @@ import java.util.*;
  */
 public class XyrRegetDownloadManager
 {
+	// just a change
     private Vector urls;
     private XyrReget parent;
     private int maxThreads;
