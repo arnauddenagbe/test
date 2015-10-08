@@ -14,6 +14,7 @@ import javax.swing.*;
  */
 public class DownloadChooseDialog extends JDialog
 {
+	// little change
     private Vector urls;
 
     public DownloadChooseDialog(Frame parent, File[] files) throws Exception
